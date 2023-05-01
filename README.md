@@ -19,7 +19,7 @@ Five kinds of dynamics were obtained by Doebeli et al. (2004) for quadratic cost
 
 ![Fig 1 C](https://user-images.githubusercontent.com/80163660/235470659-27693651-f6c3-4d21-87db-753e7982601c.png)
 
-4. **Unidirectional dynmics (defection)**: The population evolves to a strategy of $1$, i.e., full cooperation.
+4. **Unidirectional dynmics (defection)**: The population evolves to a strategy of $0$, i.e., full defection.
 
 ![Fig 1 D](https://user-images.githubusercontent.com/80163660/235470872-e1234d06-f95d-4dbc-b319-20d2bf7085ad.png)
 
